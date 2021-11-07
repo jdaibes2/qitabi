@@ -1,0 +1,1583 @@
+[
+  {
+    "_component": "text",
+    "_classes": "changerfont2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">&nbsp; ظِلّي وَصاحِبي&nbsp;</span></strong></span></p>",
+    "_id": "6187819e5915ca41083d49a0",
+    "_parentId": "6187819e5915ca41083d499f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>طابَ يَوْمُكُمْ يا أَعِزّائي!</strong></p>",
+    "_id": "6187833f5915ca41083d49ab",
+    "_parentId": "6187833a5915ca41083d49aa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f8ff9053a0d5393cdae7a7de8dee3d33b03d50e4.png",
+      "small": "course/en/assets/f8ff9053a0d5393cdae7a7de8dee3d33b03d50e4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "6187984e89565c3118405359",
+    "_parentId": "6187833a5915ca41083d49aa",
+    "_type": "component",
+    "_layout": "right",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>مَعَ مَنْ تَكَلَّمَتْ لينُ؟</strong></p>",
+    "_id": "618799c989565c3118405360",
+    "_parentId": "618799b689565c311840535f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "تَكَلَّمَتْ لينُ مَعَ الْأَوْلادِ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَكَلَّمَتْ لينُ مَعَ  الظِّلِّ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَكَلَّمَتْ لينُ مَعَ الْكُرَةِ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>&nbsp; أَضْغَطُ عَلى الصّورَةِ الَّتي تَدُلُّ عَلى أَنَّ الْكُرَةَ تَتَدَحْرَجُ:</strong></p>",
+    "_id": "6187a08189565c311840536e",
+    "_parentId": "6187a07d89565c311840536d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/aa05a025190aa2c2ea4210deeb8b3bbc8d2f2b39.png",
+          "small": "course/en/assets/aa05a025190aa2c2ea4210deeb8b3bbc8d2f2b39.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/280014854ecc82de4920cc5413cb92d46c05f17a.png",
+          "small": "course/en/assets/280014854ecc82de4920cc5413cb92d46c05f17a.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 4,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p><strong>صحيحة</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>خاطئة</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187a4ee89565c311840537c",
+    "_parentId": "6187a4e889565c311840537b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">&nbsp; وَكانَتِ الْمُفاجَأَةُ! \"الْكُرَةُ تَعودُ إِلَيْها مِنْ جَديدٍ\". هَلْ هذا مَعْقولٌ؟!</p><p dir=\"rtl\">&nbsp; اِلْتَقَطَتِ الْكُرَةُ ثُمَّ رَمَتْها بِقُوَّةٍ.</p><p dir=\"rtl\">&nbsp; ها هِيَ الْكُرَةُ تَعودُ إِلَيْها مَرَّةً ثانِيَةً.</p><p dir=\"rtl\">&nbsp; بُهِتَتْ لينُ، وَتَسَمَّرَتْ في مَكانِها. &nbsp;</p><p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">قاموس المعاني</span></strong></span></p><p dir=\"rtl\"><strong>بُهِتَت = تَفاجَأَت&nbsp;&nbsp;&nbsp;|&nbsp; &nbsp;&nbsp;تَسَمَّرَتْ في مَكانِها= وَقَفَتْ في مَكانَها</strong></p><p dir=\"rtl\">&nbsp;</p>",
+        "_imageSrc": "course/en/assets/e50acb4bf79edf1ee4e8fb4bc234492e6bac3b09.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187a58289565c3118405380",
+    "_parentId": "6187a58289565c311840537f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">رَمَتْ لينُ الْكُرَةَ بَعيدًا وَقالَتْ لِظِلِّها: \"أَسْرِعْ، الْتَقِطْها قَبْلَ أَنْ &nbsp; تَتَدَحْرَجَ الْكُرَةُ في الْوادي الْعَميقِ\".</p><p dir=\"rtl\">&nbsp;</p><p dir=\"rtl\">&nbsp;</p>",
+        "_imageSrc": "course/en/assets/2ac9c9cb9acf94df64ae5f369b7c7f8848fd42c5.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187a5cc89565c3118405384",
+    "_parentId": "6187a5cc89565c3118405383",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 55,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">- \"كَمِ السّاعَةُ يا تُرَى؟ مَتى يَخْرُجُ أَوْلادُ هذِهِ الْقَرْيَةِ إِلى اللَّعِبِ؟ هَلْ أَعودُ إِلى الْبَيْتِ؟“</p><p dir=\"rtl\">اِسْتَدارَتْ لين بِسُرْعَةٍ لِتَعودَ إِلى الْبَيْتِ، فَلَمَحَتْ ظِلَّها يَمْتَدُّ أَمامَها. ضَحِكَتْ وَقالَتْ لَهُ: \"أَيْنَ كُنْتَ &nbsp; مُنْذُ قَليلٍ؟ هَيّا نَلْعَبُ بِالْكُرَةِ مَعًا\".</p><p dir=\"rtl\">&nbsp;</p>",
+        "_imageSrc": "course/en/assets/ec39ca515cf8f0a695e286d850271fbe731606e0.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187a5fa89565c3118405388",
+    "_parentId": "6187a5fa89565c3118405387",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c9b11fc9a1356e0d961d2918e4a063013e6c598.png",
+      "small": "course/en/assets/9c9b11fc9a1356e0d961d2918e4a063013e6c598.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "changerfont2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong><span style=\"background-color:#40E0D0\">&nbsp;أُقَدِّمُ الْمِثالَ: لنفكّر معًا&nbsp;</span></strong></p><p dir=\"RTL\"><strong>ماذا أَتَوَقَّعُ مِنَ الْعُنْوانِ وَالصُّورَةِ؟</strong></p>",
+    "_id": "6187a5fa89565c311840538b",
+    "_parentId": "6187a5fa89565c3118405387",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>ما مَعْنى تَسَمَّرَتْ في مَكانِها؟</strong></p>",
+    "_id": "6187ad1089565c3118405391",
+    "_parentId": "6187ad1089565c3118405390",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "وَقَفَتْ في مَكانِها",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "وَقَعَتْ في مَكانِها",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "ارتاحت في مَكانِها",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187ad8189565c3118405394",
+    "_parentId": "6187ad8189565c3118405393",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">&nbsp; فَجْأَةً أَطَلَّ عَلَيْها صَبِيٌّ يَتَسَلَّقُ زاوِيَة&nbsp; الْجَلِّ: \"أَيْنَ &nbsp; طابَتُكِ؟ إِنّي أَنْتَظِرُها\".</p><p dir=\"rtl\">&nbsp; - \"مَنْ أَنْتَ؟\".</p><p dir=\"rtl\">&nbsp; - \"أَنا فاديَ، أَعيشُ في هذِهِ الْقَرْيَةِ. وَمَنْ أَنْتِ؟\".</p><p dir=\"rtl\">&nbsp; - \"أَنا لينُ، مِنْ بَيْروتَ. جِئْتُ مَعَ أَهْلي لِنُمْضِيَ&nbsp; الصَّيْفَ &nbsp; هُنا\".&nbsp;</p>",
+        "_imageSrc": "course/en/assets/c0f8cb716807fdfd59889d42756f6e1f27723b0e.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>أَيْنَ تَعيشُ لينُ عادةً؟</strong></p>",
+    "_id": "6187adda89565c311840539a",
+    "_parentId": "6187adda89565c3118405399",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "تَعيشُ لينُ في بَيْروتَ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَعيشُ لينُ في الْقَرْيَةِ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَعيشُ لينُ في الجبل",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>لِماذا تَذْهَبُ لينُ إِلى الْقَرْيَةِ؟</strong></p>",
+    "_id": "6187ae2689565c311840539d",
+    "_parentId": "6187ae2689565c311840539c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "تَذْهَبُ لينُ إِلى الْقَرْيَةِ لِتُمْضِيَ عُطْلَةَ الصَّيْفِ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَذْهَبُ لينُ إِلى الْقَرْيَةِ لِتَزورَ جَدَّتَها",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَذْهَبُ لينُ إِلى الْقَرْيَةِ لِتَلْعَبَ مَعَ فاديَ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187aeb889565c31184053a0",
+    "_parentId": "6187aeb889565c311840539f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 55,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">&nbsp;- \"أَهْلًا بِكِ. هَيّا نَلْعَبُ مَعًا\".</p><p dir=\"rtl\">وَتَوالَتِ الْأَيّامُ، وَهُما يَلْعَبانِ مَعًا، وَيَتَنَزَّهان ِمَعًا...</p><p dir=\"rtl\">صارَتْ لينُ مِثْلَ أَهْلِ الْقَرْيَةِ، تَقْطُفُ الْخُضْراواتِ وَالْفاكِهَةَ النَّدِيَّةَ، تَغْسِلُها مِنْ مِياهِ الْعَيْنِ الْبارِدَةِ، &nbsp; وَتَأْكُلُها بِشَهِيَّةٍ، وَتَشْرَبُ الْحَليبَ الطّازجَ...</p>",
+        "_imageSrc": "course/en/assets/c691a5bf06a27064f82119a42411f1d3de38a333.jpg",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">كَمْ تَعَثَّرَتْ لينُ وَوَقَعَتْ وَهِيَ تَتَسَلَّقُ الْجِلالَ خَلْفَ فادي! وَكَمْ رافَقَتْهُ إِلى بَيْتِ خالَتِهِ أُمْ هاني لِصُنْعِ&nbsp;مَناقيشِ الْمَرْقوقِ اللَّذيذَةِ!</p><p dir=\"rtl\"><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">&nbsp;قاموس المعاني&nbsp;</span></span></p><p dir=\"rtl\"><strong>تَوالَتْ = مَرَّت&nbsp; |&nbsp; &nbsp;&nbsp;النَّدِيَّةِ =&nbsp; الرَّطِبَةِ&nbsp; &nbsp; |&nbsp; &nbsp; تَعَثَّرَتْ = زلت قدمها</strong></p><p dir=\"rtl\" style=\"text-align:left\">&nbsp;</p><p dir=\"rtl\">&nbsp;</p>",
+        "_imageSrc": "course/en/assets/552903ee22db5dd823759e07d7a4bcf24952f55d.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "changerfont3",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>ما معنى توالت الأيام؟ </strong></p>",
+    "_id": "6187bcfd89565c31184053a6",
+    "_parentId": "6187bcfd89565c31184053a5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "تتابعت الْأَيّام",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "انْقَضَتِ الْأَيّام",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "تَباعَدَتِ الْأَيّام",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>لِماذا أَصْبَحَتْ لينُ مِثْلَ أَهْلِ الْقَرْيَةِ؟</strong></p><p dir=\"rtl\"><strong>لأنها:</strong></p>",
+    "_id": "6187bd5c89565c31184053a8",
+    "_parentId": "6187bd5289565c31184053a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "أختار الإجابة المناسبة",
+    "_items": [
+      {
+        "text": "تَقْطُفُ",
+        "_options": [
+          {
+            "text": "الْخُضْراواتِ وَالْفاكِهَةَ",
+            "_isCorrect": true
+          },
+          {
+            "text": "الْجِلالَ",
+            "_isCorrect": false
+          },
+          {
+            "text": "الْحَليبَ الطّازَجَ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "تَتَسَلَّقُ",
+        "_options": [
+          {
+            "text": "الْخُضْراواتِ وَالْفاكِهَةَ",
+            "_isCorrect": false
+          },
+          {
+            "text": "الْجِلالَ",
+            "_isCorrect": true
+          },
+          {
+            "text": "الْحَليبَ الطّازَجَ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "تَشْرَبُ",
+        "_options": [
+          {
+            "text": "الْخُضْراواتِ وَالْفاكِهَةَ",
+            "_isCorrect": false
+          },
+          {
+            "text": "الْجِلالَ",
+            "_isCorrect": false
+          },
+          {
+            "text": "الْحَليبَ الطّازَجَ",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p>صحيحة</p>",
+      "_incorrect": {
+        "final": "<p>خاطئة</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "changerfont2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong><span style=\"background-color:#40E0D0\">&nbsp;أَهْدافُ الدَّرْس: ➴ </span></strong></p><p dir=\"RTL\"><strong>أَقْرَأُ النَّصَّ وَأُجيبُ عَنِ الْأَسْئِلَةِ:</strong></p>",
+    "_id": "6187bef489565c31184053a9",
+    "_parentId": "618783af5915ca41083d49af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6187c67089565c31184053ac",
+    "_parentId": "6187c66f89565c31184053ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 55,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">مَضى الصَّيْفُ، وَوَقَفَ فاديَ أَمامَ بابِ الدّارِ، يُوَدِّعُ لين، وَهِيَ تَرْكَبُ سَيّارَةَ والِدَها في طريقِ الْعَوْدَةِ &nbsp; إِلى بَيْروتَ.</p>",
+        "_imageSrc": "course/en/assets/f19122bc3b9243d36f936a57067f774ecfaeaaff.png",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p dir=\"rtl\">-\"لا تَنْسَ يا فاديَ أَنْ تَهْتَمَّ بِشَجَرَتي الصَّغيرَةِ\".</p><p dir=\"rtl\">-\"وَأَنْتِ يا لينُ اِهْتَمّي بِالْكناري الَّذي أُحِبُّ\".</p><p dir=\"rtl\">-\"إِلى اللِّقاءِ يا فاديَ\".</p><p dir=\"rtl\">-\"إلى اللِّقاءِ قريبًا\".&nbsp;</p>",
+        "_imageSrc": "course/en/assets/e2cccf9dcb58fca4b424d20b1a2f2e3368243825.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>أختار&nbsp;إشارة&nbsp;<span style=\"background-color:#00FF00\">\"صح\"</span>&nbsp;</strong>&nbsp;<strong>أمام العبارة التي تدل على طبيعة الحياة في القرية، وإشارة <span style=\"color:#FFFFFF\"><span style=\"background-color:#FF0000\">\"خطأ\"</span></span>&nbsp;</strong>&nbsp;<strong>حيث لا تدل العبارة على ذلك</strong></p>",
+    "_id": "6187cf0089565c31184053bd",
+    "_parentId": "6187ceec89565c31184053bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>يتنقَّل النَّاس سيرًا على الأقدام.</strong></p><p dir=\"rtl\">&nbsp;</p>",
+    "_id": "6187d00389565c31184053c1",
+    "_parentId": "6187cffb89565c31184053c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10004;  صح",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10008;  خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "ألإجابة",
+      "correct": "<p><strong>صحيحة</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>خاطئة</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>يأكل الناس المنتجات الزراعية الطازجة: الفاكهة عن الشجر&nbsp; والخضر من الأرض</strong></p><p dir=\"rtl\">&nbsp;</p>",
+    "_id": "6187d21889565c31184053c4",
+    "_parentId": "6187d21889565c31184053c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10004;  صح",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10008;  خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "ألإجابة",
+      "correct": "<p><strong>صحيحة</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>خاطئة</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>يلعب الأولاد في مدينة الملاهي</strong></p><p dir=\"rtl\">&nbsp;</p>",
+    "_id": "6187d24889565c31184053c7",
+    "_parentId": "6187d24889565c31184053c6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10004;  صح",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10008;  خطأ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "ألإجابة",
+      "correct": "<p><strong>صحيحة</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>خاطئة</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "changerfont",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong>يَتَسَلَّقُ الأولاد الأشجار ويقفزون من جَلِّ إلى آخَرَ</strong></p><p dir=\"rtl\">&nbsp;</p>",
+    "_id": "6187d25589565c31184053ca",
+    "_parentId": "6187d25589565c31184053c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10004;  صح",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "&#10008;  خطأ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "ألإجابة",
+      "correct": "<p><strong>صحيحة</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>خاطئة</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
