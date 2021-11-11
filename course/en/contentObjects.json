@@ -1,9 +1,9 @@
 [
   {
     "title": "New Menu/Page Title",
-    "displayTitle": "",
+    "displayTitle": "ظِلّي وَصاحِبي",
     "body": "",
-    "_classes": "",
+    "_classes": "changerfont",
     "subtitle": "",
     "pageBody": "",
     "instruction": "",
@@ -18,17 +18,17 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187819e5915ca41083d499d",
+    "_id": "618ad7853f81930fdc5509b3",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/9c9b11fc9a1356e0d961d2918e4a063013e6c598.png"
+      "src": "course/en/assets/c0f8cb716807fdfd59889d42756f6e1f27723b0e.png"
     },
     "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
+      "_isEnabled": true,
+      "_classes": "fade-in-bottom",
+      "_percentInviewVertical": 5
     },
     "_pageLevelProgress": {
       "_isEnabled": true,

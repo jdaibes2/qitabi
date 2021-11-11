@@ -12,11 +12,20 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187819e5915ca41083d499f",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618ad7863f81930fdc5509b5",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_trickle": {
       "_isEnabled": false,
@@ -47,9 +56,28 @@
         "_isLockedOnRevisit": false
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -65,8 +93,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187833a5915ca41083d49aa",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b73269a4fdc104c9de565",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -76,10 +104,14 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -90,9 +122,9 @@
         "_autoHide": false,
         "_showEndOfPage": true,
         "_className": "",
-        "_hasIcon": true,
-        "text": "التالي",
-        "ariaLabel": " Continue",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
         "finalText": "Finish",
@@ -104,10 +136,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -146,8 +174,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "618783af5915ca41083d49af",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b63a09a4fdc104c9de523",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -158,9 +186,9 @@
       "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -171,8 +199,8 @@
         "_autoHide": false,
         "_showEndOfPage": true,
         "_className": "",
-        "_hasIcon": true,
-        "text": "التالي",
+        "_hasIcon": false,
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -227,8 +255,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187a5fa89565c3118405387",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b65609a4fdc104c9de52e",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -239,9 +267,9 @@
       "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -252,8 +280,8 @@
         "_autoHide": false,
         "_showEndOfPage": true,
         "_className": "",
-        "_hasIcon": true,
-        "text": "التالي",
+        "_hasIcon": false,
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -308,8 +336,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187a5cc89565c3118405383",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b69e29a4fdc104c9de531",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -319,10 +347,14 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -334,7 +366,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -347,10 +379,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -380,7 +408,7 @@
     "title": "New Block Title",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "changerfont",
     "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
@@ -389,8 +417,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "618799b689565c311840535f",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b6b9d9a4fdc104c9de53b",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -398,12 +426,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -415,7 +443,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -470,8 +498,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187a58289565c311840537f",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b6cbf9a4fdc104c9de544",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -481,10 +509,14 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -496,7 +528,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -509,10 +541,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -551,8 +579,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187a07d89565c311840536d",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b70f89a4fdc104c9de556",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -560,12 +588,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -577,7 +605,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -632,21 +660,16 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187a4e889565c311840537b",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618b829c9a4fdc104c9de572",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -658,7 +681,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -675,29 +698,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
     }
   },
   {
@@ -713,8 +713,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187ad1089565c3118405390",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618be3ddc96ff20694978903",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -722,12 +722,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -739,7 +739,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -794,21 +794,16 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187ad8189565c3118405393",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618be578c96ff20694978909",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -820,7 +815,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -837,29 +832,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
     }
   },
   {
@@ -875,8 +847,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187adda89565c3118405399",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618bf5d02d364205384f2882",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -884,12 +856,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -901,7 +873,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -956,8 +928,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187ae2689565c311840539c",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618be46cc96ff20694978906",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -965,12 +937,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -982,7 +954,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -1037,21 +1009,16 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187aeb889565c311840539f",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618ccb5c85a1440fdc4890f0",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -1063,7 +1030,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -1080,29 +1047,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
     }
   },
   {
@@ -1118,21 +1062,16 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187bcfd89565c31184053a5",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618bed162d364205384f2868",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -1144,7 +1083,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -1161,29 +1100,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
     }
   },
   {
@@ -1199,8 +1115,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187bd5289565c31184053a7",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618bee742d364205384f2872",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1208,12 +1124,12 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isInherited": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -1225,7 +1141,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "التالي",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
@@ -1280,97 +1196,11 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187c66f89565c31184053ab",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618cdab385a1440fdc4890f2",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": true,
-      "_isInherited": false,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "التالي",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 18,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6187ceec89565c31184053bc",
-    "_parentId": "6187819e5915ca41083d499e",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": null
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1404,29 +1234,59 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "618cde2c85a1440fdc4890f7",
+    "_parentId": "618ad7863f81930fdc5509b4",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
     },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     }
   },
   {
@@ -1442,8 +1302,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187cffb89565c31184053c0",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618cde5e85a1440fdc4890fb",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 1
@@ -1495,16 +1355,11 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187d21889565c31184053c3",
-    "_parentId": "6187819e5915ca41083d499e",
+    "_id": "618cdea285a1440fdc4890fe",
+    "_parentId": "618ad7863f81930fdc5509b4",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
-      "_quizBankID": null
+      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1538,191 +1393,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 21,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6187d24889565c31184053c6",
-    "_parentId": "6187819e5915ca41083d499e",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": null
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 22,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6187d25589565c31184053c9",
-    "_parentId": "6187819e5915ca41083d499e",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": null
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false
     }
   }
 ]

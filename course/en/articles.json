@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6187819e5915ca41083d499e",
-    "_parentId": "6187819e5915ca41083d499d",
+    "_id": "618ad7863f81930fdc5509b4",
+    "_parentId": "618ad7853f81930fdc5509b3",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -20,15 +20,15 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": true,
-      "_id": "quiz",
+      "_isEnabled": false,
+      "_id": "",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_correctToPass": 60,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
-      "_suppressMarking": true,
+      "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
       "_scrollToOnReset": false,
@@ -43,14 +43,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
+      "_isEnabled": false,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_onChildren": false,
       "_scrollTo": "@block +1",
@@ -62,8 +62,8 @@
         "_autoHide": false,
         "_showEndOfPage": true,
         "_className": "",
-        "_hasIcon": true,
-        "text": "التالي",
+        "_hasIcon": false,
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
