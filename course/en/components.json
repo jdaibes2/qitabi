@@ -1460,14 +1460,14 @@
     "instruction": "",
     "_items": [
       {
-        "text": "&#10004; صح",
+        "text": "صح  &#10004; ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "&#10008; خطأ",
+        "text": "خطأ  &#10008; ",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -1550,14 +1550,14 @@
     "instruction": "",
     "_items": [
       {
-        "text": "&#10004; صح",
+        "text": "صح  &#10004; ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "&#10008; خطأ",
+        "text": "خطأ  &#10008; ",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -1640,14 +1640,14 @@
     "instruction": "",
     "_items": [
       {
-        "text": "&#10004; صح",
+        "text": "صح  &#10004; ",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "&#10008; خطأ",
+        "text": "خطأ  &#10008; ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -1730,14 +1730,14 @@
     "instruction": "",
     "_items": [
       {
-        "text": "&#10004; صح",
+        "text": "صح  &#10004; ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "&#10008; خطأ",
+        "text": "خطأ  &#10008; ",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
